@@ -32,7 +32,7 @@
 ---
 
 ### 🌍 Let’s Connect!
-- 📫 Email: shadmanrahman.np@gmail.com  
+- 📫 Email: official.shadmanrahman@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shadmanrahman1/)  
 - 📊 [Kaggle](https://www.kaggle.com/shadmanrahman1)
 
