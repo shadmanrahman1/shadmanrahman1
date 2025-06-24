@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hi there, I'm Shadman Rahman
 
-<!--
-**shadmanrahman1/shadmanrahman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Biomedical Engineering Student** at KUET  
+🧠 Passionate about **Machine Learning**, **Data Science**, and their applications in **Healthcare & Biomedicine**  
+🌍 Open to **remote internships**, **research collaborations**, and **freelance projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- 🧪 Learning and applying **Machine Learning** & **Deep Learning**
+- 🧬 Exploring intersections of **AI in Biomedicine**
+- 🛠️ Building projects using **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Power BI**, and more
+- 📊 Actively working on **Kaggle competitions** and data-driven storytelling
+
+---
+
+### 📚 Ongoing Learning Path
+- ✅ [x] IBM Data Analyst Professional Certificate (Completed)
+- ✅ [x] Machine Learning Specialization by Andrew Ng (Completed)
+- 🔄 [ ] Convolutional Neural Networks (in progress)
+- ⏳ [ ] Git & GitHub for collaboration
+- 🔄 [ ] Real-world ML/DL projects (Kaggle, healthcare datasets)
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages**: Python, SQL, HTML (basic)
+- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV
+- **Tools**: Jupyter, VS Code, Power BI, Git, Notion
+- **ML/DS**: Regression, Classification, CNNs, Reinforcement Learning (basics), Data Wrangling
+
+---
+
+### 🌍 Let’s Connect!
+- 📫 Email: shadmanrahman.np@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shadmanrahman1/)  
+- 📊 [Kaggle](https://www.kaggle.com/shadmanrahman1)
+
+---
+
+### 🧭 Fun Fact
+> I'm on a mission to **bridge Biomedical Engineering with Machine Learning** — one project at a time 🚀
+
+<!-- Profile views counter or badges can be added here -->
+
